@@ -111,6 +111,6 @@ Open a web browser (Microsoft Edge) in the virtual machine. Search for and insta
 
 <br />
 
-<h3>Observing ICMP (Internet Control Message Protocol) Traffic</h3>
+<h3>Observing ICMP Traffic</h3>
 
 <p>
