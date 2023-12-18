@@ -124,5 +124,6 @@ Open Windows Powershell in VM1 and in the command line enter ping [VM2 Private I
 <img src="https://i.imgur.com/7GnDrxc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 On Windows Powershell enter ping [VM2 Private IP], then -t. This starts an effect of non stop ping between the Virtual Machines, resulting in nonstop ICMP packets displaying in Wireshark
+</p>
 <img src="https://i.imgur.com/Kv7GAyg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
