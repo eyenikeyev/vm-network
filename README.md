@@ -58,7 +58,7 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 <b>Virtual Machine</b>: Access Azure Portal, go to Virtual Machines to create an azure virtual machine. Select the resource group we've created (RG-Lab-01) and name it VM-1. Make sure the Region is the same as the resource group previously created. To set the Availability Options, set it to No Infrastructure and Security Type to Standard.
 <li>
 </p>
-<b>Image</b>(Operating System): set it to Windows 10 Pro, Version 22H2, x64 Gen2
+<b>Image</b> (Operating System): set it to Windows 10 Pro, Version 22H2, x64 Gen2
 <li>
 </p>
 <b>Size</b>: the general processing power and RAM of the VM, set it to Standard_E2s_V3 which provides 2 virtual cpus and 16 GBs of RAM
