@@ -61,11 +61,11 @@ RDP: Remote Desktop Protocol
 <p>
 <img src="https://i.imgur.com/VhKtvlv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-<b>Virtual Machine</b>: Access Azure Portal, go to Virtual Machines to create an azure virtual machine. Select the resource group we've created (RG-Lab-01) and name it VM-1. Make sure the Region is the same as the resource group previously created. To set the Availability Options, set it to No Infrastructure and Security Type to Standard.<li>
+<b>Virtual Machine</b>: Access Azure Portal, go to Virtual Machines to create an azure virtual machine. Select the resource group we've created (RG-Lab-01) and name it VM-1. Make sure the Region is the same as the resource group previously created. To set the Availability Options, set it to No Infrastructure and Security Type to Standard.</i>
 </p>
-<b>Image</b> (Operating System): set it to Windows 10 Pro, Version 22H2, x64 Gen2<li>
+<b>Image</b> (Operating System): set it to Windows 10 Pro, Version 22H2, x64 Gen2</li>
 </p>
-<b>Size</b>: the general processing power and RAM of the VM, set it to Standard_E2s_V3 which provides 2 virtual cpus and 16 GBs of RAM
+<b>Size</b>: the general processing power and RAM of the VM, set it to Standard_E2s_V3 which provides 2 virtual cpus and 16 GBs of RAM</li>
 <p>
 <img src="https://i.imgur.com/AcVLLhH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
