@@ -53,3 +53,5 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 </p>
 <b>Resource Group</b>: In the Azure Portal, go to resource groups to create a resource group and name it RG-Lab-01. Take note of the region of the resource group as it'll come in use when setting up the virtual machines. When finished, click on Review + Create.</li>
 <p>
+<img src="https://i.imgur.com/VhKtvlv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
