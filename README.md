@@ -97,5 +97,5 @@ In Azure Portal go to Virtual Machines, go to Overview, go to Public IP Address 
 <p>
 You have successfully logged into the Virtual Machine
 <p>
-<img src="https://i.imgur.com/AP2L2PN.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/8liNZe7.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
