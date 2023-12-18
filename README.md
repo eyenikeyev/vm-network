@@ -145,3 +145,10 @@ When completed, Request timed out will display in Powershell in VM1, this means 
 <p>
 To restart the traffic, go to the Azure Portal and set the inbound security rule's action to Allow and save
 <p>
+</p>
+
+<br />
+
+<h3>Observing SSH Traffic</h3>
+
+<p>
