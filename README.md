@@ -81,3 +81,12 @@ Click on Review + Create to deploy the virtual machine. Wait approximately five 
 </p>
 <img src="https://i.imgur.com/DJtKqDb.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+</ul>
+</p>
+
+<br />
+
+<h3>Logging into a Virtual Machine using Remote Desktop Connection</h3>
+
+<p>
+  <ul>
