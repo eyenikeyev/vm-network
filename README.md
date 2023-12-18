@@ -66,3 +66,8 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 <img src="https://i.imgur.com/AcVLLhH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 Set the username and password of your VM for logging in and make sure to check the box for licensing agreements
+<p>
+Go to the Network tab and notice the Virtual Network created by the Virtual Machine by the Resource Group. It will be made automatically by the Virtual Machine
+<p>
+
+</p>
