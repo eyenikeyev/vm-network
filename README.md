@@ -159,3 +159,5 @@ Go to Windows Powershell inside VM1, type in ssh labuser@[VM2's Private IP], ent
 <p>
 <b>Note</b>: we are accesssing the terminal of VM2 (Linux's version of a command prompt) it doesen't display input and dots when typing a password. It is registering input when typing
 <p>
+Typing in commands such as username, pwd, or sudo apt will display traffic on Wireshark. You can filter ssh traffic in Wireshark by typing in ssh in the filter bar
+<p>
