@@ -105,6 +105,5 @@ You have successfully logged into the Virtual Machine
 
 <h2>Observing Traffic in Virtual Machines</h2>
 <p>
-  <ul>
 Open a web browser (Microsoft Edge) in the virtual machine. Search for and install <a href="https://www.wireshark.org/download.html">Wireshark</a>
 <p>
