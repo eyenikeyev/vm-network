@@ -205,4 +205,6 @@ Filter RDP traffic in Wireshark by entering tcp.port==3389 in the filter bar and
 <ul>
 Open the windows command prompt, enter logoff to end session. It is best practice to delete all of the resources in Azure Portal after finished with the lab to not accumulate a billing cost
 </p>
+<img src="https://i.imgur.com/Dp0zcVo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
 This is the conclusion of the Virtual Machine Network in Microsoft Azure
