@@ -132,7 +132,9 @@ Access the Azure Portal, go to VM2 Network Security Group (NSG). It should be na
 Go to inbound security rules and create a security rule that denies ICMPs. Click on Add to open a right side pop up to set the rule
 <p>
 Enter this information
-
+<img src="https://i.imgur.com/EkE28Jl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
+Set the priority to 200. Name the rule deny_icmp_ping_from_anywhere, then click Add to finish
 <p>
 Note: priorities are inversely proportional meaning lower numbers have higher priority
 </p>
