@@ -130,6 +130,7 @@ On Windows Powershell enter ping [VM2 Private IP], then -t. This starts an effec
 Access the Azure Portal, go to VM2 Network Security Group (NSG). It should be named VM-2-nsg, in order to stop the traffic
 </p>
 Go to inbound security rules and create a security rule that denies ICMPs. Click on Add to open a right side pop up to set the rule
+</p>
 Enter this information
 </p>
 <li>Source: Any</li> 
