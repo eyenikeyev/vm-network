@@ -10,17 +10,17 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 <h2>Environments and Technologies </h2>
 
 <ul>
-  <li>Microsoft Azure (Virtual Machines/Compute)</li>
-  <li>Microsoft Remote Desktop</li>
-  <li>Windows Command Prompt</li>
-  <li>Wireshark</li>
-  <li>Network Protocols</li>
-  <ul>
-  <li>DNS - Domain Name System
-  <li>ICMP - Internet Control Message Protocol
-  <li>SSH - Secure Shell
-  <li>RDP - Remote Desktop Protocol
-  </ul>
+<li>Microsoft Azure (Virtual Machines/Compute)</li>
+<li>Microsoft Remote Desktop</li>
+<li>Windows Command Prompt</li>
+<li>Wireshark</li>
+<li>Network Protocols</li>
+</p>
+DNS - Domain Name System
+ICMP - Internet Control Message Protocol
+SSH - Secure Shell
+RDP - Remote Desktop Protocol
+</ul>
 </ul>
 
 </br>
