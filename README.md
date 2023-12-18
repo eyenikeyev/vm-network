@@ -90,3 +90,6 @@ Click on Review + Create to deploy the virtual machine. Wait approximately five 
 
 <p>
   <ul>
+<p>
+In Azure Portal go to Virtual Machines, go to Overview, go to Public IP Address section and copy it. Open Remote Desktop Connection and paste it there, then click Connect. Log in using the username and password you set up for VM1 (a pop up may show for verification, click "Yes" if it does)
+<p>
