@@ -172,3 +172,5 @@ When finished, you can enter the command exit to end session
 <h3>Observing DHCP Traffic</h3>
 
 <p>
+Filter dhcp traffic in Wireshark by entering dhcp in the filter bar. DHCP assign IP Addresses to devices new to the network the moment the device joins the network. We can reassign an IP Address in the virtual machine by going to Powershell and entering the command ipconfig /renew
+<p>
