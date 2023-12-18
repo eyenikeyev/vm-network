@@ -114,3 +114,6 @@ Open a web browser (Microsoft Edge) in the virtual machine. Search for and insta
 <h3>Observing ICMP Traffic</h3>
 
 <p>
+Open Wireshark and start capturing packets (blue fin icon). In the filter bar type icmp to filter incoming ICMP packets
+<img src="https://i.imgur.com/9f2LFVp.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
