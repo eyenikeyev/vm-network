@@ -109,8 +109,6 @@ Open a web browser (Microsoft Edge) in the virtual machine. Search for and insta
 <p>
 </p>
 
-<br />
-
 <h3>Observing ICMP Traffic</h3>
 
 <p>
