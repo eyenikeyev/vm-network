@@ -20,6 +20,7 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 <li>ICMP: Internet Control Message Protocol</li>
 <li>SSH: Secure Shell</li>
 <li>RDP: Remote Desktop Protocol</li>
+<ul>
 <p>
 </ul>
 </ul>
