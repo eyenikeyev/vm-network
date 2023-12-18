@@ -120,3 +120,7 @@ Open Wireshark and start capturing packets (blue fin icon). In the filter bar ty
 Go to the Azure Portal on the physical desktop, go to VM2 and note its private ip address
 <p>
 Open Windows Powershell in VM1 and in the command line enter ping [VM2 Private IP]. Then ICMP pakcets should display in Wireshark
+<p>
+Open Windows Powershell in VM1 and in the command line enter ping private IP of VM2. Then ICMP packets should now display in Wireshark
+<img src="https://i.imgur.com/7GnDrxc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
