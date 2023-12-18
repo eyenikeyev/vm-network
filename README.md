@@ -138,5 +138,4 @@ Enter this information
 Set the priority to 200. Name the rule deny_icmp_ping_from_anywhere, then click Add to finish
 </p>
 <b>Note</b>: priorities are inversely proportional meaning lower numbers have higher priority
-<li>
 </p>
