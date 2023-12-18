@@ -187,3 +187,10 @@ Filter DNS traffic in Wireshark by entering dns in the filter bar. In Powershell
 <p>
 <img src="https://i.imgur.com/VQEMZHm.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <p>
+</p>
+
+<br/>
+
+<h3>Observing RDP (Remote Desktop Protocol) Traffic</h3>
+
+<p>
