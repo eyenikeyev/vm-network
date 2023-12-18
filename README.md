@@ -36,9 +36,8 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 <h2>List of Prerequisites</h2>
 <ol>
   <li>Microsoft Azure Account and Subscription</li>
-  <li>Access to Microsoft Remote Desktop Connection</li>
-  <ul> For MacOS users, follow <a href = "https://www.youtube.com/watch?v=0lllpAhgAJs&ab_channel=TheHostingVideos">this video</a> to use Remote Desktop on Mac</li>
-  </ul>
-  <li>(Optional): Notepad for typing down log in information for our Virtual Machines</li>
+  <li>Access to Microsoft Remote Desktop Connection. For MacOS users, follow <a href = "https://www.youtube.com/watch?v=0lllpAhgAJs&ab_channel=TheHostingVideos">this video</a> to use Remote Desktop on Mac</li>
+</ul>
+<li>(Optional): Notepad for typing down log in information for our Virtual Machines</li>
 </ol>
 </p>
