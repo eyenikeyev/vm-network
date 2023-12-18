@@ -63,3 +63,5 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 </p>
 <b>Size</b>: the general processing power and RAM of the VM, set it to Standard_E2s_V3 which provides 2 virtual cpus and 16 GBs of RAM
 <p>
+<img src="https://i.imgur.com/AcVLLhH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
