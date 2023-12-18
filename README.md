@@ -16,10 +16,10 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 <li>Wireshark</li>
 <li>Network Protocols</li>
 </p>
-<li>DNS: Domain Name System</li>
-<li>ICMP: Internet Control Message Protocol</li>
-<li>SSH: Secure Shell</li>
-<li>RDP: Remote Desktop Protocol</li>
+DNS: Domain Name System</li>
+ICMP: Internet Control Message Protocol</li>
+SSH: Secure Shell</li>
+RDP: Remote Desktop Protocol</li>
 <ul>
 <p>
 </ul>
