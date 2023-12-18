@@ -191,6 +191,6 @@ Filter DNS traffic in Wireshark by entering dns in the filter bar. In Powershell
 
 <br/>
 
-<h3>Observing RDP (Remote Desktop Protocol) Traffic</h3>
+<h3>Observing RDP Traffic</h3>
 
 <p>
