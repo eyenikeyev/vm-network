@@ -16,7 +16,7 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 <li>Wireshark</li>
 <li>Network Protocols</li>
 <ul>
-
+<p>
 DNS - Domain Name System
 <p>
 ICMP - Internet Control Message Protocol
