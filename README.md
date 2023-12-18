@@ -136,6 +136,6 @@ Enter this information
 <img src="https://i.imgur.com/EkE28Jl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 Set the priority to 200. Name the rule deny_icmp_ping_from_anywhere, then click Add to finish
-<p>
-Note: priorities are inversely proportional meaning lower numbers have higher priority
+</p>
+<b>Note<b>: priorities are inversely proportional meaning lower numbers have higher priority </li>
 </p>
