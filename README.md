@@ -139,3 +139,7 @@ Set the priority to 200. Name the rule deny_icmp_ping_from_anywhere, then click 
 </p>
 <b>Note</b>: priorities are inversely proportional meaning lower numbers have higher priority
 </p>
+When completed, Request timed out will display in Powershell in VM1, this means ICMP ping has halted from the security rule that was added
+<p>
+<img src="https://i.imgur.com/0dbd0E6.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
