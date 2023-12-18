@@ -194,3 +194,12 @@ Filter DNS traffic in Wireshark by entering dns in the filter bar. In Powershell
 <h3>Observing RDP Traffic</h3>
 
 <p>
+Filter RDP traffic in Wireshark by entering tcp.port==3389 in the filter bar and you'll notice non-stop traffic. The RDP is constantly showing you a live stream from one computer to another, therefore traffic is always being transmitted
+<p>
+<img src="https://i.imgur.com/dgIWhy8.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
+</p>
+
+<br/>
+
+<h2>Clean Up</h2>
+<ul>
