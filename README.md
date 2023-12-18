@@ -77,5 +77,5 @@ Go to the Network tab, notice the Virtual Network created by the Virtual Machine
 </p>
 Click on Review + Create to deploy the virtual machine. Wait approximately five to ten minutes to fully deploy before continuing
 </p>
-<b>Virtual Machine 2</b>: same process as Virtual Machine 1 except name it VM-2 and set the image to Ubuntu Server 20.04 LTS x64 Gen2. Ubuntu by default has their Administrator account authentication as SSH public key, so we must set it as password for logging in through Remote Desktop
+<b>Virtual Machine 2</b>: same process as Virtual Machine 1 except name it VM-2 and set the image to Ubuntu Server 20.04 LTS x64 Gen2. Ubuntu by default has their Administrator account authentication as SSH public key, so we must set it as Password for logging in through Remote Desktop
 </p>
