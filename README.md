@@ -99,3 +99,10 @@ You have successfully logged into the Virtual Machine
 <p>
 <img src="https://i.imgur.com/8liNZe7.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+</p>
+
+<br />
+
+<h2>Observing Traffic in Virtual Machines</h2>
+<p>
+  <ul>
