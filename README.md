@@ -71,3 +71,5 @@ Go to the Network tab, notice the Virtual Network created by the Virtual Machine
 <p>
 <img src="https://i.imgur.com/oa1kwem.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+Click on Review + Create to deploy the virtual machine. Wait approximately five to ten minutes to fully deploy before continuing.
+</p>
