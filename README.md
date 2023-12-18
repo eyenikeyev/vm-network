@@ -127,3 +127,17 @@ On Windows Powershell enter ping [VM2 Private IP], then -t. This starts an effec
 </p>
 <img src="https://i.imgur.com/Kv7GAyg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
+Access the Azure Portal, go to VM2 Network Security Group (NSG). It should be named VM-2-nsg, in order to stop the traffic
+</p>
+Go to inbound security rules and create a security rule that denies ICMPs. Click on Add to open a right side pop up to set the rule
+</p>
+<li>Source: Any</li> 
+<li>Source port range: *</li>
+<li>Destination: Any</li>
+<li>Service: Custom</li>
+<li>Destination port range: *</li>
+<li>Protocol: ICMP</li>
+<li>Action: Deny</li>
+<li>Priority: 200</li>
+<li>Name: deny_icmp_ping_from_anywhere</li>
+</p>
