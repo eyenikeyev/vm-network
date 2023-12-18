@@ -79,3 +79,5 @@ Click on Review + Create to deploy the virtual machine. Wait approximately five 
 </p>
 <b>Virtual Machine 2</b>: same process as Virtual Machine 1 except name it VM-2 and set the image to Ubuntu Server 20.04 LTS x64 Gen2. Ubuntu by default has their Administrator account authentication as SSH public key, so we must set it as Password for logging in through Remote Desktop
 </p>
+<img src="https://i.imgur.com/DJtKqDb.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+</p>
