@@ -165,3 +165,10 @@ Typing in commands such as username, pwd, or sudo apt will display traffic on Wi
 <p>
 When finished, you can enter the command exit to end session
 <p>
+</p>
+
+<br />
+
+<h3>Observing DHCP Traffic</h3>
+
+<p>
