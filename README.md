@@ -183,5 +183,7 @@ Filter dhcp traffic in Wireshark by entering dhcp in the filter bar. DHCP assign
 <h3>Observing DNS Traffic</h3>
 
 <p>
-Filter DNS traffic in Wireshark by entering dns in the filter bar. In Powershell type in nslookup and a website such as google
+Filter DNS traffic in Wireshark by entering dns in the filter bar. In Powershell type in nslookup www.google.com
+<p>
+<img src="https://i.imgur.com/VQEMZHm.png" width="60%" alt="Disk Sanitization Steps"/>
 <p>
