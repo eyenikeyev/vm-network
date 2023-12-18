@@ -152,3 +152,5 @@ To restart the traffic, go to the Azure Portal and set the inbound security rule
 <h3>Observing SSH Traffic</h3>
 
 <p>
+Go to Windows Powershell inside VM1, type in ssh VM2@[VM2's Private IP], enter. Enter "yes" and it will ask for the password of VM2
+<p>
