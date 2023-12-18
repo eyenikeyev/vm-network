@@ -174,7 +174,7 @@ When finished, you can enter the command exit to end session
 <p>
 Filter dhcp traffic in Wireshark by entering dhcp in the filter bar. DHCP assign IP Addresses to devices new to the network the moment the device joins the network. We can reassign an IP Address in the virtual machine by going to Powershell and entering the command ipconfig /renew
 <p>
-<img src="https://i.imgur.com/o3QRVhK.png" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/o3QRVhK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 </p>
 
@@ -185,5 +185,5 @@ Filter dhcp traffic in Wireshark by entering dhcp in the filter bar. DHCP assign
 <p>
 Filter DNS traffic in Wireshark by entering dns in the filter bar. In Powershell type in nslookup www.google.com
 <p>
-<img src="https://i.imgur.com/VQEMZHm.png" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VQEMZHm.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
