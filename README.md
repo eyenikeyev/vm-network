@@ -155,9 +155,7 @@ To restart the traffic, go to the Azure Portal and set the inbound security rule
 <h3>Observing SSH Traffic</h3>
 
 <p>
-Go to Windows Powershell inside VM1, type in ssh VM2@[VM2's Private IP], enter. Enter "yes" and it will ask for the password of VM2
+Go to Windows Powershell inside VM1, type in ssh labuser@[VM2's Private IP], enter. Enter "yes" and it will ask for the password of VM2
 <p>
 <b>Note</b>: we are accesssing the terminal of VM2 (Linux's version of a command prompt) it doesen't display input and dots when typing a password. It is registering input when typing
-<p>
-For example you can enter commands such as id and observe traffic, -a to see the OS its running on
 <p>
