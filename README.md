@@ -143,3 +143,5 @@ When completed, Request timed out will display in Powershell in VM1, this means 
 <p>
 <img src="https://i.imgur.com/0dbd0E6.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+To restart the traffic, go to the Azure Portal and set the inbound security rule's action to Allow and save
+<p>
