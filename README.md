@@ -41,3 +41,11 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 <li>(Optional): Notepad for typing down log in information for our Virtual Machines</li>
 </ol>
 </p>
+</ol>
+
+<h2>Installation Steps</h2>
+
+<h3>Creating our Resource Group and Virtual Machines</h3>
+
+<p>
+  <ul>
