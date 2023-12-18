@@ -38,7 +38,7 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
   <li>Microsoft Azure Account and Subscription</li>
   <li>Access to Microsoft Remote Desktop Connection. For MacOS users, follow <a href = "https://www.youtube.com/watch?v=0lllpAhgAJs&ab_channel=TheHostingVideos">this video</a> to use Remote Desktop on Mac</li>
 </ul>
-<li>(Optional): Notepad for typing down log in information for our Virtual Machines</li>
+<li>Notepad (Optional): for typing down log in information for our Virtual Machines</li>
 </ol>
 </p>
 </ol>
@@ -50,4 +50,6 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 <p>
   <ul>
 <b>Resource Group<b>:
+<p>
+In the Azure Portal, go to resource groups to create a resource group and name it RG-Lab-01. Take note of the region of the resource group as it'll come in use when setting up the virtual machines. When finished, click on Review + Create.
 <p>
