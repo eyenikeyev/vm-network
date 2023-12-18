@@ -49,3 +49,6 @@ This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azu
 
 <p>
   <ul>
+<b>Resource Group<b>:
+<li>
+<p>
