@@ -161,3 +161,5 @@ Go to Windows Powershell inside VM1, type in ssh labuser@[VM2's Private IP], ent
 <p>
 Typing in commands such as username, pwd, or sudo apt will display traffic on Wireshark. You can filter ssh traffic in Wireshark by typing in ssh in the filter bar
 <p>
+<img src="https://i.imgur.com/YMgANPk.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
