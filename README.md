@@ -20,9 +20,9 @@ DNS: Domain Name System</li>
 <p>
 ICMP: Internet Control Message Protocol</li>
 <p>
-SSH: Secure Shell</li>
+SSH: Secure Shell
 <p>
-RDP: Remote Desktop Protocol</li>
+RDP: Remote Desktop Protocol
 <p>
 <ul>
 <p>
