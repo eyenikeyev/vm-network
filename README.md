@@ -107,3 +107,10 @@ You have successfully logged into the Virtual Machine
 <p>
 Open a web browser (Microsoft Edge) in the virtual machine. Search for and install <a href="https://www.wireshark.org/download.html">Wireshark</a>.
 <p>
+</p>
+
+<br />
+
+<h4>Observing ICMP (Internet Control Message Protocol) Traffic</h4>
+
+<p>
