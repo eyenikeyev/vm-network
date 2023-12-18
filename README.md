@@ -163,3 +163,5 @@ Typing in commands such as username, pwd, or sudo apt will display traffic on Wi
 <p>
 <img src="https://i.imgur.com/YMgANPk.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+When finished, you can enter the command exit to end session
+<p>
