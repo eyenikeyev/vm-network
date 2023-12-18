@@ -176,3 +176,12 @@ Filter dhcp traffic in Wireshark by entering dhcp in the filter bar. DHCP assign
 <p>
 <img src="https://i.imgur.com/o3QRVhK.png" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+</p>
+
+<br/>
+
+<h3>Observing DNS Traffic</h3>
+
+<p>
+Filter DNS traffic in Wireshark by entering dns in the filter bar. In Powershell type in nslookup and a website such as google
+<p>
