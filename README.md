@@ -142,4 +142,8 @@ Enter this information
 <li>Action: Deny</li>
 <li>Priority: 200</li>
 <li>Name: deny_icmp_ping_from_anywhere</li>
+<p>
+Then click Add to finish
+<p>
+Note: priorities are inversely proportional meannig lower numbers have higher priority
 </p>
