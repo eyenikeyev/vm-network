@@ -207,4 +207,4 @@ Open the windows command prompt, enter logoff to end session. It is best practic
 </p>
 <img src="https://i.imgur.com/Dp0zcVo.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-This is the conclusion of the Virtual Machine Network in Microsoft Azure
+This is the conclusion of this lab
