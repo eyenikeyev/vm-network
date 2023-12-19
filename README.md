@@ -2,8 +2,8 @@
 <img src="https://github.com/ColtonTrauCC/vm-network/assets/147654000/2cb238ff-4e46-4a75-8967-7ef5d124ab74" height="15%" width="15%" alt="Microsoft Azure logo"/>
 </p>
 
-<h1 align = "center">Virtual Machine Network</h1>
-This tutorial outlines how to set up an Virtual Machine Network in Microsoft Azure and doing some exercises observing traffic.
+<h1 align = "center">Virtual Machine</h1>
+This tutorial outlines how to set up a virtual machine network in Microsoft Azure and doing some exercises observing traffic.
 
 <br />
 
