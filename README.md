@@ -15,7 +15,6 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 <li>Windows Command Prompt</li>
 <li>Wireshark</li>
 <p>
-
 Network Protocols:
 <li>DNS - Domain Name Systems</li>
 <li>ICMP - Internet Control Message Protocol</li>
