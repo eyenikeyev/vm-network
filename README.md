@@ -54,7 +54,7 @@ RDP: Remote Desktop Protocol
 <h3>Creating our Resource Group and Virtual Machines</h3>
 
 <p>
-  <ul>
+
 </li>
 </p>
 <b>Resource Group</b>: In the Azure Portal, go to resource groups to create a resource group and name it RG-Lab-01. Take note of the region of the resource group as it'll come in use when setting up the virtual machines. When finished, click on Review + Create.</li>
@@ -89,7 +89,7 @@ Click on Review + Create to deploy the virtual machine. Wait approximately five 
 <h3>Logging into a Virtual Machine using Remote Desktop Connection</h3>
 
 <p>
-  <ul>
+
 <p>
 In Azure Portal go to Virtual Machines, go to Overview, go to Public IP Address section and copy it. Open Remote Desktop Connection and paste it there, then click Connect. Log in using the username and password you set up for VM1 (a pop up may show for verification, click "Yes" if it does)
 <p>
