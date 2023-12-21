@@ -14,7 +14,8 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 <li>Microsoft Remote Desktop</li>
 <li>Windows Command Prompt</li>
 <li>Wireshark</li>
-Network Protocols:
+<p>
+<b>Network Protocols</b></li>:
 <li>DNS - Domain Name Systems</li>
 <li>ICMP - Internet Control Message Protocol</li>
 <li>SSH - Secure Shell</li>
