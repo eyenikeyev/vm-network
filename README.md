@@ -110,7 +110,7 @@ You have successfully logged into the Virtual Machine
 <p>
 Open a web browser (Microsoft Edge) in the virtual machine. Search for and install <a href="https://www.wireshark.org/download.html">Wireshark</a>.
 <p>
-<img src="https://i.imgur.com/Lrq8aV9.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lrq8aV9.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 
