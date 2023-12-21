@@ -17,7 +17,7 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 <p>
 
 Network Protocols:
-<p>
+
 <li>DNS - Domain Name Systems</li>
 <li>ICMP - Internet Control Message Protocol</li>
 <li>SSH - Secure Shell</li>
