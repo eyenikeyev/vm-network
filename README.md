@@ -50,7 +50,7 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 
 <h2>Installation Steps</h2>
 
-<h3>Creating our Resource Group and Virtual Machines</h3>
+<h3>Creating a Resource Group and Virtual Machines</h3>
 
 <p>
 
