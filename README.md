@@ -113,11 +113,11 @@ Open a web browser (Microsoft Edge) in the virtual machine. Search for and insta
 </p>
 <img src="https://i.imgur.com/Lrq8aV9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
-</p>
 
 <h3>Observing ICMP Traffic</h3>
 
 <p>
+</p>
 Open Wireshark, run as administrator and start capturing packets (blue fin icon). This lets you see the actual live traffic on the virtual machine. In the filter bar type icmp to filter incoming ICMP packets. ICMP is used for reporting errors and performing network diagnostics.
 <p>
 <img src="https://i.imgur.com/9f2LFVp.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
