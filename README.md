@@ -110,7 +110,7 @@ You have successfully logged into the Virtual Machine
 <p>
 Open a web browser (Microsoft Edge) in the virtual machine. Search for and install <a href="https://www.wireshark.org/download.html">Wireshark</a>. Download Windows x64 Installer.
 <p>
-<img src="https://i.imgur.com/Lrq8aV9.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Lrq8aV9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
 </p>
 
