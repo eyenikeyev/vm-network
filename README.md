@@ -182,6 +182,7 @@ Filter dhcp traffic in Wireshark by entering dhcp in the filter bar. DHCP assign
 <p>
 <img src="https://i.imgur.com/o3QRVhK.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+<img src="https://i.imgur.com/AxUIben.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br/>
