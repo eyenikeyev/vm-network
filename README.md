@@ -137,7 +137,7 @@ Go to inbound security rules and create a security rule that denies ICMPs. Click
 <p>
 Enter this information
 <p>
-<img src="https://i.imgur.com/EkE28Jl.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/EkE28Jl.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <p>
 Set the priority to 200. Name the rule deny_icmp_ping_from_anywhere, then click Add to finish
 </p>
