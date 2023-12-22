@@ -20,6 +20,7 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 <li>DNS - Domain Name Systems</li>
 <li>ICMP - Internet Control Message Protocol</li>
 <li>SSH - Secure Shell</li>
+<li>DHCP - Dynamic Host Configuration Protocol</li>
 <li>RDP - Remote Desktop Connection</li>
 </p>
 <p>
