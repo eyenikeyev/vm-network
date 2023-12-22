@@ -111,12 +111,11 @@ You have successfully logged into the Virtual Machine
 Open a web browser (Microsoft Edge) in the virtual machine. Search for and install <a href="https://www.wireshark.org/download.html">Wireshark</a>. Download Windows x64 Installer.
 <p>
 </p>
-<img src="https://i.imgur.com/Lrq8aV9.png" height="35%" width="35%" alt="Disk Sanitization Steps"/>
-</p>
+<img src="https://i.imgur.com/Lrq8aV9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 <p>
+</p>
 
 <h3>Observing ICMP Traffic</h3>
-
 <p>
 </p>
 Open Wireshark, run as administrator and start capturing packets (blue fin icon). This lets you see the actual live traffic on the virtual machine. In the filter bar type icmp to filter incoming ICMP packets. ICMP is used for reporting errors and performing network diagnostics.
