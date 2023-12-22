@@ -166,6 +166,8 @@ Typing in commands such as uname -a, id, pwd, or sudo apt will display traffic o
 <p>
 <img src="https://i.imgur.com/YMgANPk.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+<img src="https://i.imgur.com/Kw9h3bt.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<p>
 When finished, you can enter the command exit to end session
 <p>
 </p>
