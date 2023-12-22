@@ -113,6 +113,7 @@ Open a web browser (Microsoft Edge) in the virtual machine. Search for and insta
 </p>
 <img src="https://i.imgur.com/Lrq8aV9.png" height="40%" width="40%" alt="Disk Sanitization Steps"/>
 </p>
+<p>
 
 <h3>Observing ICMP Traffic</h3>
 
