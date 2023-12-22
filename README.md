@@ -194,6 +194,7 @@ Filter DNS traffic in Wireshark by entering dns in the filter bar. In Powershell
 <p>
 <img src="https://i.imgur.com/cx0T23Z.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
+<img src="https://i.imgur.com/CCO0tht.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br/>
