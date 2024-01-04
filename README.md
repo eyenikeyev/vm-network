@@ -122,15 +122,15 @@ Go to the Azure Portal on the physical desktop, go to VM-2 and note its Private 
 <p>
 <img src="https://i.imgur.com/KD0EE3P.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
-Open Windows Powershell in VM1 and in the command line enter ping [VM2 Private IP]. Then ICMP packets should display in Wireshark.
+Open Windows Powershell in VM-1 and in the command line enter ping [VM2 Private IP]. Then ICMP packets should display in Wireshark.
 <p>
-<img src="https://i.imgur.com/9f2LFVp.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VEGwlql.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-On Windows Powershell enter ping [VM2 Private IP], then -t. This starts an effect of non stop ping between the Virtual Machines, resulting in nonstop ICMP packets displaying in Wireshark
+On Windows Powershell enter ping [VM-2 Private IP], then -t. This starts an effect of non stop ping between the Virtual Machines, resulting in nonstop ICMP packets displaying in Wireshark
 </p>
 <img src="https://i.imgur.com/Kv7GAyg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
-Access the Azure Portal, go to VM2 Network Security Group (NSG). It should be named VM-2-nsg, in order to stop the traffic
+Access the Azure Portal, go to VM-2 Network Security Group (NSG). It should be named VM-2-nsg, in order to stop the traffic
 </p>
 Go to inbound security rules and create a security rule that denies ICMPs. Click on Add to open a right side pop up to set the rule
 <p>
@@ -155,9 +155,9 @@ To restart the traffic, go to the Azure Portal and set the inbound security rule
 <h3>Observing SSH Traffic</h3>
 
 <p>
-Go to Windows Powershell inside VM1, type in ssh labuser@[VM2's Private IP], enter. Enter "yes" and it will ask for the password of VM2
+Go to Windows Powershell inside VM-1, type in ssh labuser@[VM2's Private IP], enter. Enter "yes" and it will ask for the password of VM-2
 <p>
-<b>Note</b>: we are accesssing the terminal of VM2 (Linux's version of a command prompt) it doesen't display input and dots when typing a password. It is registering input when typing
+<b>Note</b>: we are accesssing the terminal of VM-2 (Linux's version of a command prompt) it doesen't display input and dots when typing a password. It is registering input when typing
 <p>
 Typing in commands such as uname -a, id, pwd, or sudo apt will display traffic on Wireshark. You can filter ssh traffic in Wireshark by typing in ssh in the filter bar, and observe the results
 <p>
