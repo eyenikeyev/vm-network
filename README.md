@@ -5,9 +5,9 @@
 <h1 align = "center">Virtual Machine</h1>
 This tutorial outlines how to set up a virtual machine network in Microsoft Azure and doing some exercises observing traffic.
 
-<br />
+</p>
 
-<h2>Environments and Technologies </h2>
+<h3>Environments and Technologies </h3>
 
 <ul>
 <li>Microsoft Azure (Virtual Machines/Compute)</li>
@@ -29,7 +29,7 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 
 </br>
 
-<h2>Operating Systems </h2>
+<h3>Operating Systems </h3>
 <ul>
   <li>Windows 10 (21H2)</li>
   <li>Linux (Ubuntu 20.04)</li>
@@ -37,7 +37,7 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 
 </br>
 
-<h2>List of Prerequisites</h2>
+<h3>List of Prerequisites</h3>
 <ol>
   <li>Microsoft Azure Account and Subscription</li>
   <p>
@@ -49,7 +49,7 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 </p>
 </ol>
 
-<h2>Installation Steps</h2>
+<h3>Installation Steps</h3>
 
 <h3>Creating a Resource Group and Virtual Machines</h3>
 
@@ -103,7 +103,7 @@ You have successfully logged into the Virtual Machine
 
 <br />
 
-<h2>Observing Traffic in Virtual Machines</h2>
+<h3>Observing Traffic in Virtual Machines</h3>
 </p>
 </p>
 
@@ -209,7 +209,7 @@ Filter RDP traffic in Wireshark by entering tcp.port==3389 in the filter bar and
 
 <br/>
 
-<h2>Clean Up</h2>
+<h3>Clean Up</h3>
 <p>
 Open the windows command prompt, enter logoff to end session. It is best practice to delete all of the resources in Azure Portal after finished with the lab to not accumulate a billing cost
 </p>
