@@ -67,7 +67,7 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 </p>
 <b>Size</b>: the general processing power and RAM of the VM, set it to Standard_E2s_V3 which provides 2 virtual cpus and 16 GBs of RAM</li>
 <p>
-<img src="https://i.imgur.com/AcVLLhH.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RQit8af.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 <p>
 Set the username and password of your VM for logging in and make sure to check the box for licensing agreements
 <p>
