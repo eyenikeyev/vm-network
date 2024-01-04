@@ -128,7 +128,7 @@ Open Windows Powershell in VM-1 and in the command line enter ping [VM2 Private 
 </p>
 On Windows Powershell enter ping [VM-2 Private IP], then -t. This starts an effect of non stop ping between the Virtual Machines, resulting in nonstop ICMP packets displaying in Wireshark
 </p>
-<img src="https://i.imgur.com/Kv7GAyg.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/j0P3UtO.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 Access the Azure Portal, go to VM-2 Network Security Group (NSG). It should be named VM-2-nsg, in order to stop the traffic
 </p>
