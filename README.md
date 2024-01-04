@@ -9,7 +9,6 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 
 <h3>Environments and Technologies </h3>
 
-<ul>
 <li>Microsoft Azure (Virtual Machines/Compute)</li>
 <li>Microsoft Remote Desktop</li>
 <li>Windows Command Prompt</li>
@@ -22,26 +21,21 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 <li>SSH:  Secure Shell</li>
 <li>DHCP: Dynamic Host Configuration Protocol</li>
 <li>RDP:  Remote Desktop Connection</li>
-</p>
 <p>
 </ul>
-</ul>
-
-</br>
 
 <h3>Operating Systems </h3>
-<ul>
-  <li>Windows 10 (21H2)</li>
-  <li>Linux (Ubuntu 20.04)</li>
+
+<li>Windows 10 (21H2)</li>
+<li>Linux (Ubuntu 20.04)</li>
 </ul>
 
-</br>
 
 <h3>List of Prerequisites</h3>
 <ol>
-  <li>Microsoft Azure Account and Subscription</li>
-  <p>
-  <li>Access to Microsoft Remote Desktop Connection. For MacOS users, follow <a href = "https://www.youtube.com/watch?v=0lllpAhgAJs&ab_channel=TheHostingVideos">this video</a> to use Remote Desktop on Mac</li>
+<li>Microsoft Azure Account and Subscription</li>
+<p>
+<li>Access to Microsoft Remote Desktop Connection. For MacOS users, follow <a href = "https://www.youtube.com/watch?v=0lllpAhgAJs&ab_channel=TheHostingVideos">this video</a> to use Remote Desktop on Mac</li>
 <p>
 <li>Notepad (Optional): to record log in information for our Virtual Machines</li>
 <p>
