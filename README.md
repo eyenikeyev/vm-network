@@ -122,7 +122,7 @@ Go to the Azure Portal on the physical desktop, go to VM2 and note its Private I
 <p>
 Open Windows Powershell in VM1 and in the command line enter ping [VM2 Private IP]. Then ICMP packets should display in Wireshark.
 <p>
-<img src="https://i.imgur.com/7GnDrxc.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/9f2LFVp.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
 </p>
 On Windows Powershell enter ping [VM2 Private IP], then -t. This starts an effect of non stop ping between the Virtual Machines, resulting in nonstop ICMP packets displaying in Wireshark
 </p>
