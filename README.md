@@ -53,7 +53,7 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 </p>
 <b>Resource Group</b>: In the Azure Portal, go to resource groups to create a resource group and name it RG-Lab-01. Take note of the region of the resource group as it'll come in use when setting up the virtual machines. When finished, click on Review + Create.</li>
 <p>
-<img src="https://i.imgur.com/VhKtvlv.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/VhKtvlv.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 <b>Virtual Machine</b>: Access Azure Portal, go to Virtual Machines to create an azure virtual machine. Select the resource group we've created (RG-Lab-01) and name it VM-1. Make sure the Region is the same as the resource group previously created. To set the Availability Options, set it to No Infrastructure and Security Type to Standard.</i>
 </p>
@@ -61,19 +61,19 @@ This tutorial outlines how to set up a virtual machine network in Microsoft Azur
 </p>
 <b>Size</b>: the general processing power and RAM of the VM, set it to Standard_E2s_V3 which provides 2 virtual cpus and 16 GBs of RAM</li>
 <p>
-<img src="https://i.imgur.com/RQit8af.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/RQit8af.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 <p>
 Set the username and password of your VM for logging in and make sure to check the box for licensing agreements
 <p>
 Go to the Network tab, notice the Virtual Network created by the Virtual Machine by the Resource Group. It will be made automatically by the Virtual Machine
 <p>
-<img src="https://i.imgur.com/oa1kwem.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oa1kwem.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 Click on Review + Create to deploy the virtual machine. Wait approximately five to ten minutes to fully deploy before continuing
 </p>
 <b>Virtual Machine 2</b>: same process as Virtual Machine 1 except name it VM-2 and set the image to Ubuntu Server 20.04 LTS x64 Gen2. Ubuntu by default has their Administrator account authentication as SSH public key, so we must set it as Password for logging in through Remote Desktop
 </p>
-<img src="https://i.imgur.com/mfJoqUy.png" height="60%" width="60%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mfJoqUy.png" height="50%" width="50%" alt="Disk Sanitization Steps"/>
 </p>
 </ul>
 </p>
